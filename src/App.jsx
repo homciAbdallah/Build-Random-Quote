@@ -56,7 +56,8 @@ const tumblrUrlQuote=encodeURIComponent(quote.quote)
 
 
         
-        <h6 >by homci abdallah</h6>
+        <div className="footer">by <a href="https://github.com/homciAbdallah">Homci/A</a></div>
+
 
 </div>
 
